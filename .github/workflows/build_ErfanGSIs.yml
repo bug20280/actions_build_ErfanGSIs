@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://bigota.d.miui.com/V12.0.5.0.QFACNXM/miui_CEPHEUS_V12.0.5.0.QFACNXM_d14054540d_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL1: https://download.meizu.com/Firmware/Flyme/16xs/8.20.11.10/cn_daily/20201110041237/66d7b4a4/update.zip
+  ROM_NAME:  Flyme
   TZ: Asia/Shanghai
 
 jobs:
