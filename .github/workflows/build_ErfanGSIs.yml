@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL1: https://ip4202302575.out.azhimalayanvh.com/Firmware/Flyme/16T/8.1.5.0/cn/20200911100617/847d887d/update.zip
-  ROM_NAME:  FlymeOS
+  ROM_NAME:  Flyme
   TZ: Asia/Shanghai
 
 jobs:
