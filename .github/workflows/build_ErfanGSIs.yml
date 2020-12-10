@@ -14,7 +14,7 @@ on:
     types: [started]
     # FlymeOS Meizu 16t 8.20.4.14 beta
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m1928/8.20.4.14/cn_beta/20200409154802/7de14a45/update.zip
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/16T/8.20.11.10/cn_daily/20201110040011/10cdd9d8/update.zip
   ROM_NAME: FlymeOS
   TZ: Asia/Shanghai
 
